@@ -88,7 +88,7 @@ blackscholes <- function(initialValue, r, sigma, numDates,
 #' genBlackscholes <- getBlackScholesGenerator(0.05, 0.4)
 #' # generate one step in the BS-model with step size 0.1 and current value 100
 #' next <- genBlackscholes(100, 0.1)
-#' # genrate path with 100 steps 
+#' # generate path with 100 steps 
 #' S <- c(100, rep(NaN, 100))
 #' for (i in 2:100) {
 #'   S[i] <- genBlackscholes(S[i-1], 0.1)
