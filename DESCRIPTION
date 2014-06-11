@@ -1,7 +1,7 @@
 Package: lsmc
 Title: Longstaff-Schwartz Monte Carlo method
 Description:  least-squares Monte-Carlo alogrithm of Longstaff and Schwartz
-URL: 
+URL: http://mdck.de/lsmc
 Version: 1.0
 Author: Florian Lucht <florian.lucht@mdck.de>
 Maintainer: Florian Lucht <florian.lucht@mdck.de>
