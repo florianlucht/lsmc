@@ -120,7 +120,7 @@ lsmc <- function(X, payoffFct, interestRate, maturity,
     }
   }
   
-  # ermittelte Ausuebungszeitpunkte
+  # calculated exercise dates
   exerciseDates <- rep(NA,M)
   
   # verbose
