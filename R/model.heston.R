@@ -111,7 +111,7 @@ heston <- function(initialValue, r, kappa, theta, rho,
 #' @param xi           volatlility of volatility (scalar)
 #' @param sigmaZero    initial volatility (scalar)
 #' @param antithetic   logical. If \code{TRUE} antitethic paths are generated.
-#' @param stepSize     step size in the Euler-Maruyama method for process simulation
+#' @param stepSize     step size in the Euler–Maruyama method for process simulation
 #'
 #' @return function with arguments:
 #' \describe{
